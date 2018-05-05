@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = 'Write a short summary, because Rubygems requires one.'
   spec.description   = 'Write a longer description or delete this line.'
 
-  spec.homepage      = 'https://github.com/[my-github-username]/huginn_file_url_agent'
+  spec.homepage      = 'https://github.com/aastronautss/huginn_file_url_agent'
 
   spec.license       = 'MIT'
 
